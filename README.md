@@ -16,4 +16,4 @@ Hello, my name is Alejandro but I'm known as endy and I'm a programmer who start
   - [Options](https://www.spigotmc.org/resources/options.73381/) (No longer maintained) [Public]
   - [Addon USW - Potions On Kill](https://www.spigotmc.org/resources/addon-usw-potions-on-kill.88897/) (No longer maintained) [Public]
  
-📖 **| Contant:** endydev#0001
+📖 **| Contact:** endydev#0001
